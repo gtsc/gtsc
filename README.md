@@ -2,7 +2,7 @@
 - 🧑‍💻 C++ software development, clean code and parallel computing is what keeps me awake at night; I love to talk about HPC, new hardware and numerical simulations, especially computational fluid dynamics
 
 - 🌊 In my day-to-day job, I am working on developing a SaaS- & cloud-based CFD software solution for engineers
-- 🌱 In my personal projects, I’m currently focusing on extending my knowledge on (C++) software development best practices and tooling; the focus of these projects is connected to my hobbies, so they usually revolve around sports 🚴⛵🏋️🏃, boardgames 🎲 or music 🎧
+- 🌱 In my personal projects, I’m currently focusing on extending my knowledge on (C++) software development best practices and tooling; the focus of these projects is connected to my hobbies, so they usually revolve around sports 🚴⛵🏋️🏃, boardgames 🎲, literature 📚 or music 🎧
 - 🙋‍♂️ If you want to talk about anything like that, you can contact me via [LinkedIn](https://www.linkedin.com/in/gustav-tschirschnitz-6bb338131/) or via mail
 
 <!---
