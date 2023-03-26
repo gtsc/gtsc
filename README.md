@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gtsc! I am working as Software Engineer at [Oracle Red Bull Racing]([https://www.dive-solutions.de](https://www.redbullracing.com/int-en))
+- 👋 Hi, I’m @gtsc! I am working as Software Engineer at [Oracle Red Bull Racing](https://www.redbullracing.com/int-en)
 - 🧑‍💻 C++ software development, clean code and parallel computing is what keeps me awake at night; I love to talk about HPC, new hardware and numerical simulations, especially computational fluid dynamics
 
 - 🌊 In my day-to-day job, I am working on developing pre- and postprocessing tools for CFD simulations, facilitating engineers to build the fastest Formula 1 car currently on track
